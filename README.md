@@ -6,7 +6,7 @@ This project is a website built using Bootstrap and JavaScript. It incorporates 
 
 Insert gif or link to demo
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRibG9jZGR1dTg4dnJ3d3ZraTVpYmQ4a3l6bjFxZHhmZDZsajJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BtwpPhQZpqlBS4AjYy/source.gif)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3M2aHIzdjZ4cGhlNmpod3IxemJyOTByMjh5MHNiaTVuamJwMnRkeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cctR5G3ArPtepgUgrF/source.gif)
 
 ## Deployment
 
