@@ -19,7 +19,7 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZqNnZpYjF5OTFuZmw3eXA4dXB6ZnBudHJsOHZvajBrbWhnNGZucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zKaCnjMrJf1PesISK6/source.gif)
 
 
 ## Appendix
